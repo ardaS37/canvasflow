@@ -7,7 +7,7 @@ CanvasFlow is a Manifest V3 Chrome extension that turns a reference image into l
 1. Open `chrome://extensions`.
 2. Enable **Developer mode**.
 3. Choose **Load unpacked** and select this folder.
-4. Open a supported drawing page and click the purple ✦ button.
+4. Open a supported drawing page and click the purple button.
 
 ## Use
 
