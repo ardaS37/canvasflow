@@ -17,3 +17,12 @@ CanvasFlow is a Manifest V3 Chrome extension that turns a reference image into l
 4. Set the output grid, then start.
 
 The helper uses ordinary DOM pointer/click events. Pages that require trusted physical input may ignore them; the extension intentionally does not attempt to defeat those protections.
+
+<!-- project-screenshot-gallery:start -->
+## Screenshots
+
+<p>
+  <a href="docs/screenshots/readme/01-arac-paneli.png"><img src="docs/screenshots/readme/01-arac-paneli.png" alt="Drawing helper panel" width="440"></a>
+  <a href="docs/screenshots/readme/02-gorsel-onizleme.png"><img src="docs/screenshots/readme/02-gorsel-onizleme.png" alt="Loaded image preview" width="440"></a>
+</p>
+<!-- project-screenshot-gallery:end -->
